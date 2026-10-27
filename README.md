@@ -1,3 +1,18 @@
+# Contribution fork: zigbee-herdsman-converters
+
+This is Mateusz Sury's fork of [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters).
+The upstream library and contributors retain their authorship. The own ESP32-C6
+irrigation-controller contribution is on
+[`add-esp32-c6-irrigation-controller`](https://github.com/mateuszsury/zigbee-herdsman-converters/tree/add-esp32-c6-irrigation-controller).
+
+![Upstream fork, own ESP32-C6 irrigation definition and Zigbee2MQTT integration](docs/assets/presentation/overview.svg)
+
+The upstream project and contributors retain their authorship. The own contribution is on add-esp32-c6-irrigation-controller.
+
+---
+
+The original upstream README follows.
+
 [![NPM](https://nodei.co/npm/zigbee-herdsman-converters.png)](https://www.npmjs.com/package/zigbee-herdsman-converters)
 
 # zigbee-herdsman-converters
